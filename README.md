@@ -17,6 +17,7 @@ This repository contains various sorting algorithm implementations along with te
 - Simplified TimSort
 
 ## Acknowledgments
+- Sam Rebelsky provided the skeleton code for all classes.
 - All implementations besides TimSort were based on my previous project on [sorting algorithm visualizations in Python](https://github.com/GijimaGarikai/Sorting-Algorithm-Visualiser)
-- ChatGPT helped to design and implement the simplified TimSort algorithm. ChatGPT is good at providing explanations, answering common questions, and troubleshooting syntax or standard algorithm implementations. Complex problems like a simplified version of timSort need you to guide it through interactive discussions and step-by-step development. Overall I had a good experience with it and learned a lot about timSort (maybe I'll add it to my python project?)
+- ChatGPT helped to design and implement the simplified TimSort algorithm. It's is good at providing explanations, answering common questions, and troubleshooting syntax or standard algorithm implementations. Complex problems like a simplified version of timSort need you to guide it through interactive discussions and step-by-step development. Overall I had a good experience with it and learned a lot about timSort (maybe I'll add it to my python project?)
 
