@@ -3,7 +3,8 @@ import java.util.Comparator;
 /**
  * Sort using merge sort.
  *
- * @author Your Name Here
+ * @author Garikai
+ * @author Sam Rebelsky
  */
 
 public class MergeSort implements Sorter {
@@ -45,7 +46,7 @@ public class MergeSort implements Sorter {
     mergeSort(values, mid+1, end, order);
     merge(values, start, mid, end, order);
   }// mergeSort(values, start, end,order)
-  
+
   @SuppressWarnings("unchecked")
   private <T> void merge(T[] values, int start, int mid, int end, Comparator<? super T> order) {
     T[] temp = (T[]) new Object[end-start+1];
