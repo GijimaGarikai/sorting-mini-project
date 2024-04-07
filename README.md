@@ -1,7 +1,7 @@
 # Sorting Mini-Project
 
-## Author
-**Garikai Gijima**
+## Authors
+**Garikai Gijima | Sam Rebelsky**
 
 ## Project Description
 This repository contains various sorting algorithm implementations along with tests to verify their correctness and efficiency. The main focus is on classical sorting techniques such as Insertion Sort, Merge Sort, Quick Sort, and a simplified version of TimSort.
